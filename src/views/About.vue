@@ -47,6 +47,6 @@ export default {
 <style scoped>
 .hasEffect {
   cursor: pointer;
-}
+}.about-wrap{max-height:calc(100vh - 2rem);overflow-y:auto;}
 </style>
 
